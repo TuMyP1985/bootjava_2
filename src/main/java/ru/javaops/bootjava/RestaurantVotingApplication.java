@@ -9,6 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestaurantVotingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestaurantVotingApplication.class, args);
+        SpringApplication.run(RestaurantVotingApplication.class,  args);
     }
 }
